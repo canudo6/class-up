@@ -1,0 +1,10 @@
+{
+  "name":"ClassUp",
+  "short_name":"ClassUp",
+  "description":"Tarefas, pontos e ranking da turma.",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f5f6fb",
+  "theme_color":"#5146e5",
+  "icons":[{"src":"logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
